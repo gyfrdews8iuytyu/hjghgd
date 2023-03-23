@@ -2,7 +2,7 @@
 
 # 设置各变量
 WSPATH=argo  # WS 路径前缀。(注意:伪装路径不需要 / 符号开始,为避免不必要的麻烦,请不要使用特殊符号.)
-UUID=8e5d241a-8a13-4480-9511-36d56baca1ee
+UUID=ee6202ea-088f-41b3-ae6a-29c4937ca03c
 NEZHA_SERVER=server.nezha.org # 哪吒三个参数，不需要的话可以留空，删除或在这三行最前面加 # 以注释
 NEZHA_PORT=5555
 NEZHA_KEY=olx2IwyG7BZjylaW3H
